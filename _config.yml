@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Site Title"
+title                    : "Open Savannah"
 title_separator          : "-"
 name                     : "Your Name"
-description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : "Seeking technological solutions to social problems."
+url                      : https://cvldigital.github.io
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : cvldigital/cvldigital.github.io
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -55,7 +55,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : @open_savannah
 facebook:
   username               :
   app_id                 :
@@ -64,7 +64,7 @@ og_image                 : # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
+  type                   : Organization
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
 
@@ -77,19 +77,19 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Open Savannah"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  bio              : "An official brigade of Code for America"
+  location         : "Savannah, Ga."
+  email            : yall@opensavannah.org
   uri              :
   bitbucket        :
-  codepen          :
+  codepen          : opensavannah
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : opensavannah
   foursquare       :
-  github           :
+  github           : @opensavannah
   google_plus      :
   keybase          :
   instagram        :
