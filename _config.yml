@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Open Savannah"
+title                    : "cvl.digital"
 title_separator          : "-"
-name                     : "Your Name"
+name                     : "Carl V. Lewis"
 description              : "Seeking technological solutions to social problems."
 url                      : https://cvldigital.github.io
 baseurl                  : # the subpath of your site, e.g. "/blog"
